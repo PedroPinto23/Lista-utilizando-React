@@ -1,0 +1,14 @@
+* {
+  background-color: aqua;
+}
+.App {
+  text-align: center;
+  color: black;
+}
+button:active {
+  border-color: #17954c;
+	color: #17954c;
+}
+button:hover {
+  background:  #24b662;
+}
