@@ -1,4 +1,4 @@
-###Um simples projeto que desenvolvi utilizando Visual Studio Code
+## Um simples projeto que desenvolvi utilizando Visual Studio Code
 
 no Terminal:
 npx create-react-app my-app
